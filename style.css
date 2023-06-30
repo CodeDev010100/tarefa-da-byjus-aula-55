@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h4 {
+    color: antiquewhite;
+}
+
+span {
+    color: aliceblue;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+img {
+    height: 200px;
+    width: 250px;
+    border-color: aliceblue;
+    border-style: double;
+}
+
+#pause_button, #stop_button, #becomeLoop_button, #disableLoop_button {
+    height: 50px;
+    width: 250px;
+    background-color:rgb(253, 192, 78);
+    border-radius: 10px;
+    font-size: larger;
+}
+#stop_button {
+    background-color: rgb(248, 105, 105);
+}
+#becomeLoop_button {
+    background-color: rgb(95, 160, 100);
+}
+#disableLoop_button {
+    background-color: rgb(248, 105, 105);
+}
